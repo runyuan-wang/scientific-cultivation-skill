@@ -189,3 +189,5 @@ This is still an exploratory project. If anything here is immature or not rigoro
 > 科学修仙：让 AI 继续守炉，让人及时回气。
 
 > Scientific Cultivation: let the agent tend the furnace while the human recovers their breath.
+
+<!-- Maintainer update: Runyuan Wang (9s5bz2jvd2-lang). -->
