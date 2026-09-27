@@ -192,7 +192,6 @@ This is still an exploratory project. If anything here is immature or not rigoro
 <!-- Maintainer update: Runyuan Wang (9s5bz2jvd2-lang). -->
 
 ---
----
 
 ## 📜 许可 · License
 
