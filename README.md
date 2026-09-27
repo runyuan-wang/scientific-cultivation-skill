@@ -181,7 +181,6 @@ This is still an exploratory project. If anything here is immature or not rigoro
 
 > The same contributor note is also kept as [`CONTRIBUTOR_NOTE.md`](CONTRIBUTOR_NOTE.md) for reuse.
 
-
 ---
 
 ## 一句话 / One-line summary
@@ -193,9 +192,15 @@ This is still an exploratory project. If anything here is immature or not rigoro
 <!-- Maintainer update: Runyuan Wang (9s5bz2jvd2-lang). -->
 
 ---
+---
 
-> **禁止抄袭商用，违者等同盗法，因果自负**
-> **Plagiarism and commercial use are strictly prohibited. Violators shall be deemed as thieves of sacred scriptures and shall face divine karmic retribution themselves.**
->
-> 公益开源项目，禁止商用 | Public welfare open-source project, commercial use prohibited
-> License: CC BY-NC 4.0
+## 📜 许可 · License
+
+本项目为公益开源，采用 **MIT 许可证**：
+
+- ✅ **随意使用**：学习、研究、转载、二次创作、**商用也可以** —— 保留原作者署名（王润圆 Runyuan Wang）就好啦 💛
+- 🌱 开源是为了帮助更多的人。
+
+This project is public-welfare open source under the **MIT License** — free for anything, **including commercial use**; just keep the original credit ("Runyuan Wang") 💛
+
+© 2026 王润圆 Runyuan Wang · MIT License
